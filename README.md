@@ -1,4 +1,4 @@
-# Hello there! -...- General Drageast!
+# Hello there! ... General Drageast!
 
 Welcome to my GitHub Profile! Unfortunately there isn't much for me to talk about....
 
