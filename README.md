@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello there! -...- General Drageast!
 
-<!--
-**Drageast/Drageast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Profile! Unfortunately there isn't much for me to talk about....
 
-Here are some ideas to get you started:
+#### I mean, I can tell you about the Programming Languages I use and the ones I want to learn.
+- [x] Python 
+- [x] C#
+- [x] Html / cshtml
+- [x] CSS
+- [ ] Elixir
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I can furthermore give you the link to my GitHub Page.
+
+### [Visit](https://drageast.github.io/)
+
+#### Last but not least.
+If you want to code something with me, just ask I dont bite!
