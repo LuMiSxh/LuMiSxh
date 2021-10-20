@@ -7,7 +7,7 @@ Welcome to my GitHub Profile! Unfortunately there isn't much for me to talk abou
 - [x] C#
 - [x] Html / cshtml
 - [x] CSS
-- [ ] Elixir
+- [ ] React JS
 
 #### I can furthermore give you the link to my GitHub Page.
 
