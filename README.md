@@ -39,9 +39,8 @@ If anyone wants to contribute to a project of mine or wants to collaborate, plea
 
 ## Coding Jobs
 
-If anyone wants me to code something for them, ask me via my E-Mail and I will awnser as soon as possible. The price will range from completely free up to 100€. Before asking me, please make sure, your project doesnt violate one of my Rules:
+If anyone wants me to code something for them, ask me via my E-Mail and I will awnser as soon as possible. Before asking, please make sure your project doesnt violate one of my Rules:
 
 - **1:** No sexual or harrassing content
 - **2:** No pirated content or anything related to code that will violate their original copyright
-- **3:** Nothing related to projects already on my GitHub Profile
-- **4:** No trojans or viruses
+- **2:** No trojans, viruses or anything related that could harm computers
