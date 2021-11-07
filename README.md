@@ -30,7 +30,7 @@ Welcome on my GitHub Profile!
 - Obersberg - GitHub Page
 
     This is the GitHub Page for a school project between [LauriNator188](https://github.com/LauriNator188) and me.
-    This website is used for evaluating our coding skills.
+    This website is used for evaluating our coding skills. The page can be found [here](https://drageast.github.io/obersberg/#/).
     `Status: [ONLINE}`
 
 ### Collaboration
