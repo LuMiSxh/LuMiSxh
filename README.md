@@ -43,4 +43,4 @@ If anyone wants me to code something for them, ask me via my E-Mail and I will a
 
 - **1:** No sexual or harrassing content
 - **2:** No pirated content or anything related to code that will violate their original copyright
-- **2:** No trojans, viruses or anything related that could harm computers
+- **3:** No trojans, viruses or anything related that could harm computers
