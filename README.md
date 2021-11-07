@@ -1,25 +1,25 @@
-# Hello there!
+# Hello there
 
 Welcome on my GitHub Profile!
 
-### Information about me
+## Information about me
 
 - Name: Luca M. Schmidt
 - Age: 17
 - E-Mail: lucazockt@icloud.com
 
 - Programming Languages I use:
-    - Python / Cyphon
-    - C#, C++
-    - Html, CSS
-    - Javascript / Typescript
+  - Python / Cyphon
+  - C#, C++
+  - Html, CSS
+  - Javascript / Typescript
 
 - Frameworks like I use:
-    - [Discord.py](https://github.com/Rapptz/discord.py)
-    - [React](https://github.com/facebook/react)
-    - [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus)
+  - [Discord.py](https://github.com/Rapptz/discord.py)
+  - [React](https://github.com/facebook/react)
+  - [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus)
 
-### Current Web-Projects
+## Current Web-Projects
 
 - Main Github Page
 
@@ -33,11 +33,11 @@ Welcome on my GitHub Profile!
     This website is used for evaluating our coding skills. The page can be found [here](https://drageast.github.io/obersberg/#/).
     `Status: [ONLINE]`
 
-### Collaboration
+## Collaboration
 
 If anyone wants to contribute to a project of mine or wants to collaborate, please contact me via my E-Mail and we will sort things out.
 
-### Coding Jobs
+## Coding Jobs
 
 If anyone wants me to code something for them, ask me via my E-Mail and I will awnser as soon as possible. The price will range from completely free up to 100€. Before asking me, please make sure, your project doesnt violate one of my Rules:
 
