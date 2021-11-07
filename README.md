@@ -24,14 +24,14 @@ Welcome on my GitHub Profile!
 - Main Github Page
 
     You can find my Main GitHub Page [here](https://drageast.github.com/).
-    This site is written in React and maintaned soley by me.
+    This site is written in React and maintaned by me alone.
     `Status: [CURRENTLY OFFLINE]`
 
 - Obersberg - GitHub Page
 
     This is the GitHub Page for a school project between [LauriNator188](https://github.com/LauriNator188) and me.
     This website is used for evaluating our coding skills. The page can be found [here](https://drageast.github.io/obersberg/#/).
-    `Status: [ONLINE}`
+    `Status: [ONLINE]`
 
 ### Collaboration
 
