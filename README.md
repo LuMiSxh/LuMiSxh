@@ -14,7 +14,7 @@ Welcome on my GitHub Profile!
   - Html, CSS
   - Javascript / Typescript
 
-- Frameworks like I use:
+- Frameworks I like to use:
   - [Discord.py](https://github.com/Rapptz/discord.py)
   - [React](https://github.com/facebook/react)
   - [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus)
