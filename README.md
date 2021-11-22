@@ -13,6 +13,7 @@ Welcome on my GitHub Profile!
   - C#, C++
   - Html, CSS
   - Javascript / Typescript
+  - Kotlin (work in progress)
 
 - Frameworks I like to use:
   - [Discord.py](https://github.com/Rapptz/discord.py)
