@@ -13,7 +13,7 @@ Welcome on my GitHub Profile!
   - C#, C++
   - Html, CSS
   - Javascript / Typescript
-  - Kotlin (work in progress)
+  - Kotlin (But not very often)
 
 - Frameworks I like to use:
   - [Discord.py](https://github.com/Rapptz/discord.py)
@@ -31,7 +31,7 @@ Welcome on my GitHub Profile!
 - Obersberg - GitHub Page
 
     This is the GitHub Page for a school project between [LauriNator188](https://github.com/LauriNator188) and me.
-    This website is used for evaluating our coding skills. The page can be found [here](https://drageast.github.io/obersberg/#/).
+    This website is used for evaluating our coding skills. The page can be found [here](https://drageast.github.io/obersberg-zwei/#/).
     `Status: [ONLINE]`
 
 ## Collaboration
