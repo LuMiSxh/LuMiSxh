@@ -6,7 +6,7 @@ Welcome on my GitHub Profile!
 
 - Name: Luca M. Schmidt
 - Age: 17
-- E-Mail: lucazockt@icloud.com
+- E-Mail: schmidt.lucamichael@icloud.com
 
 - Programming Languages I use:
   - Python / Cyphon
