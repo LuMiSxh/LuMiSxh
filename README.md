@@ -17,8 +17,9 @@ Welcome on my GitHub Profile!
 
 - Frameworks I like to use:
   - [Discord.py](https://github.com/Rapptz/discord.py)
-  - [React](https://github.com/facebook/react)
+  - [React.js](https://github.com/facebook/react)
   - [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus)
+  - [Next.js](https://nextjs.org/)
 
 ## Current Web-Projects
 
