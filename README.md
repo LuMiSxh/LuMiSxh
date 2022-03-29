@@ -1,6 +1,6 @@
 # Hello there
 
-Welcome on my GitHub Profile!
+Welcome to my GitHub Profile!
 
 ## Information about me
 
@@ -14,6 +14,7 @@ Welcome on my GitHub Profile!
   - Html, CSS
   - Javascript / Typescript
   - Kotlin (But not very often)
+  - Rust
 
 - Frameworks I like to use:
   - [Discord.py](https://github.com/Rapptz/discord.py)
@@ -38,11 +39,3 @@ Welcome on my GitHub Profile!
 ## Collaboration
 
 If anyone wants to contribute to a project of mine or wants to collaborate, please contact me via my E-Mail and we will sort things out.
-
-## Coding Jobs
-
-If anyone wants me to code something for them, ask me via my E-Mail and I will awnser as soon as possible. Before asking, please make sure your project doesnt violate one of my Rules:
-
-- **1:** No sexual or harrassing content
-- **2:** No pirated content or anything related to code that will violate their original copyright
-- **3:** No trojans, viruses or anything related that could harm computers
