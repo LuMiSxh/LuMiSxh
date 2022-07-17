@@ -3,9 +3,8 @@
 ## Information about me
 
 - Programming Languages I use:
-  - Python / Cyphon
+  - Rust
+  - Python (Cython)
   - C#, C++
   - Javascript / Typescript
-  - Kotlin
   - Java
-  - Rust
