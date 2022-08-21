@@ -68,7 +68,7 @@ In this section you can learn, what languages I've learned, what frameworks I ha
 
 ## My trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lumisxh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Open source projects I contribute to
 
