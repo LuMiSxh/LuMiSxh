@@ -28,13 +28,13 @@ In this section you can learn, what languages I've learned, what frameworks I ha
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&color=black&logoColor=black&labelColor=7a05ff)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&color=black&logoColor=black&labelColor=lightgrey)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&color=black&logoColor=black&labelColor=6b1173)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=black&logoColor=black&labelColor=1fcde0)
 ![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&color=black&logoColor=black&labelColor=orange)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=black&logoColor=black&labelColor=yellow)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&color=black&logoColor=black&labelColor=9a46fa)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=black&logoColor=black&labelColor=yellow)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&color=black&logoColor=black&labelColor=692921)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&color=black&logoColor=black&labelColor=2f64d6)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=black&logoColor=black&labelColor=1fcde0)
 
 ### Frameworks
 
