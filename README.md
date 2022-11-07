@@ -34,6 +34,7 @@ In this section you can learn, what languages I've learned, what frameworks I ha
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=black&logoColor=black&labelColor=yellow)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&color=black&logoColor=black&labelColor=692921)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&color=black&logoColor=black&labelColor=2f64d6)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=black&logoColor=black&labelColor=1fcde0)
 
 ### Frameworks
 
