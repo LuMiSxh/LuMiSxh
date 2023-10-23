@@ -7,7 +7,7 @@ pub fn create_lumisxh() -> Human {
     age: 19,
     languages: vec!["de-de", "en-us", "fr-fr", "ja-jp"],
     country: "Germany",
-    job_position: None // Yet!
+    job_position: "IoT Developer"
   }
 }
 ```
