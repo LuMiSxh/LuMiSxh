@@ -3,8 +3,8 @@
 ```rust
 pub fn create_lumisxh() -> Human {
   Human {
-    name: "Luca Michael XXXXXXX",
-    age: 19,
+    name: "Luca Michael Schmidt",
+    age: 20,
     languages: vec!["de-de", "en-us", "fr-fr", "ja-jp"],
     country: "Germany",
     job_position: "IoT Developer"
