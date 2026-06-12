@@ -33,5 +33,5 @@ Developer {
 
 | Project | Description | Stack |
 |---|---|---|
-| [Palaxy](https://github.com/lumisxh/Palaxy) | lightweight manga converter | Svelte |
+| [Thasia](https://github.com/lumisxh/Thasia) | lightweight manga converter | Svelte |
 | [Dots](https://github.com/lumisxh/dots) | dotfiles manager | Rust |
