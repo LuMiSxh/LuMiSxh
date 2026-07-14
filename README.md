@@ -1,37 +1,21 @@
 # LuMiSxh
-```rust
-Developer {
-    location: "Germany",
-    focus:    ["backend systems", "desktop apps", "distributed services"],
-    stack:    ["Rust", "Python", "TypeScript", "Elixir"],
-    note:     "full-stack, but happiest in the backend",
-}
-```
 
----
+Developer from Germany building desktop applications and local-first tools. Most of my current work combines Rust backends with Svelte and Tauri interfaces.
 
-### Stack
+## Selected projects
 
-**Languages**
-`Rust` `Python` `TypeScript` `JavaScript` `Elixir` `Go` `C#`
+### [Kaigai](https://github.com/LuMiSxh/Kaigai)
 
-**Frontend & Desktop**
-`Svelte` `SvelteKit` `Tauri` `Tailwind CSS` `React`
+Live English subtitles for Japanese streams. Audio capture, speech detection, Whisper transcription, and translation run locally on the user's device.
 
-**Backend & APIs**
-`FastAPI` `Django` `Axum`, `Phoenix`
+`Rust` · `Tauri` · `Svelte` · `Whisper`
 
-**Databases**
-`PostgreSQL` `SQLite` `Redis` `DynamoDB`
+### [Thasia](https://github.com/LuMiSxh/Thasia)
 
-**Infra & Iooling**
-`Docker` `Kubernetes` `Git` `Prisma`
+A cross-platform manga converter and processor for organizing, editing, optimizing, and packaging images as CBZ or EPUB.
 
----
+`Rust` · `Tauri` · `Svelte`
 
-### Projects
+## Current stack
 
-| Project | Description | Stack |
-|---|---|---|
-| [Thasia](https://github.com/lumisxh/Thasia) | lightweight manga converter | Svelte |
-| [Dots](https://github.com/lumisxh/dots) | dotfiles manager | Rust |
+`Rust` · `TypeScript` · `Svelte` · `Python` · `Docker`
