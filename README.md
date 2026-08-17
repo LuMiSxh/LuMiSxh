@@ -4,6 +4,12 @@ Developer from Germany building desktop applications and local-first tools. Most
 
 ## Selected projects
 
+### [Arknights Client](https://github.com/LuMiSxh/Arknights-MacOS-Client)
+
+An unofficial native macOS launcher for the official PC version of Arknights on Apple Silicon, featuring an isolated Wine and DXMT runtime, multi-region support, and in-game payments.
+
+`Swift` · `SwiftUI` · `C` · `Python` · `Wine` · `DXMT` · `Metal`
+
 ### [Kaigai](https://github.com/LuMiSxh/Kaigai)
 
 Live English subtitles for Japanese streams. Audio capture, speech detection, Whisper transcription, and translation run locally on the user's device.
@@ -18,4 +24,4 @@ A cross-platform manga converter and processor for organizing, editing, optimizi
 
 ## Current stack
 
-`Rust` · `TypeScript` · `Svelte` · `Python` · `Docker`
+`Rust` · `Swift` · `TypeScript` · `Svelte` · `Python`
