@@ -1,27 +1,50 @@
-# LuMiSxh
+<div align="center">
 
-Developer from Germany building desktop applications and local-first tools. Most of my current work combines Rust backends with Svelte and Tauri interfaces.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banners/github-banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="banners/github-banner-light.png">
+    <img alt="LuMiSxh Banner" src="banners/github-banner-dark.png" width="100%">
+  </picture>
 
-## Selected projects
+  <br />
+  <br />
 
-### [Arknights Client](https://github.com/LuMiSxh/Arknights-MacOS-Client)
+  <p>
+    Software Developer based in Germany specializing in desktop applications and performant industrial systems.
+  </p>
 
-An unofficial native macOS launcher for the official PC version of Arknights on Apple Silicon, featuring an isolated Wine and DXMT runtime, multi-region support, and in-game payments.
+  <br />
+</div>
 
-`Swift` · `SwiftUI` · `C` · `Python` · `Wine` · `DXMT` · `Metal`
+## Focus & Architecture
 
-### [Kaigai](https://github.com/LuMiSxh/Kaigai)
+Primary development revolves around client-side performance, local execution, and low-overhead software design.
 
-Live English subtitles for Japanese streams. Audio capture, speech detection, Whisper transcription, and translation run locally on the user's device.
+- **Primary Stack:** Rust, Svelte, Tauri, Swift
+- **Focus Areas:** Local-first tools, desktop optimization
 
-`Rust` · `Tauri` · `Svelte` · `Whisper`
+## Key Projects
+
+### [Arknights-MacOS-Client](https://github.com/LuMiSxh/Arknights-MacOS-Client)
+
+A native macOS launcher for Apple Silicon, utilizing custom Wine and DXMT runtime configurations to run the official client efficiently.
 
 ### [Thasia](https://github.com/LuMiSxh/Thasia)
 
-A cross-platform manga converter and processor for organizing, editing, optimizing, and packaging images as CBZ or EPUB.
+A cross-platform manga converter and processor designed for organizing, editing, and packaging images locally as CBZ or EPUB.
 
-`Rust` · `Tauri` · `Svelte`
+### [Kaigai](https://github.com/LuMiSxh/Kaigai)
 
-## Current stack
+Local real-time speech detection and translation pipeline running Whisper models on-device for Japanese media streams.
 
-`Rust` · `Swift` · `TypeScript` · `Svelte` · `Python`
+---
+
+## Technical Background & Work
+
+- **Professional:** Backend systems and data processing using Python and Rust.
+- **Personal Projects:** System-level programming in Rust, macOS integration via Swift.
+- **Design Philosophy:** Minimal external runtime dependencies, no forced cloud reliance, and efficient resource usage.
+
+## Contact & Issues
+
+For questions, bug reports, or feature requests regarding any repository, please open an issue in the respective project.
