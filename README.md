@@ -1,9 +1,9 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="banners/github-banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="banners/github-banner-light.png">
-    <img alt="LuMiSxh Banner" src="banners/github-banner-dark.png" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="banners/github-banner-dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="banners/github-banner-light.webp">
+    <img alt="LuMiSxh Banner" src="banners/github-banner-dark.webp" width="100%">
   </picture>
 
   <br />
